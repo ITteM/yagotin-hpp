@@ -1,0 +1,240 @@
+.client p{
+    margin: 0 0 0 10%;
+}
+
+.client a:hover{
+    color: #447490;
+}
+
+.navbar-inverse {
+  background-color: #5285a7;
+  -webkit-box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.9);
+  box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.9);
+}
+
+    #about {
+	    background-image: url(../img/about.jpg);
+        background-size: cover;
+	    padding: 120px 0px ;
+	    display: block;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+	    z-index: 900;
+        -webkit-box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.9);
+	    box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.9);
+    }
+    
+    #about h3 {
+	    color: #fff;  
+    }
+    
+    #about p {
+	    color: #fff;
+    }
+    
+    #skillbar h6 {
+	    color: #fff !important;
+    }
+    
+    #team {
+	    background: #2fc17a;
+	    padding: 120px 0px ;
+	    display: block;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+	    z-index: 900;
+	    text-align: center;
+    }
+    
+    #team h3 {
+	    color: #fff;
+    }
+    .team:hover {
+	    background-color: #1da362;
+	    color: #fff;
+    }
+    
+    .team h5 {
+        color: #fff;
+    }
+
+    .team:hover h5 {
+        color: #fff;
+    }
+
+    .job {
+        color: #fff !important;
+        border-bottom: 1px dashed #9e968f;
+    }
+    
+    .team p {
+	    color: #fff;
+    }
+    
+    .team:hover p {
+	    padding: 10px;
+	    color: #fff !important;
+    }
+    
+    .team a {
+	    color: #fff;
+    }
+    
+    .team:hover a {
+	    color: #fff;
+    }
+    
+    .member1, .member2, .member3, .member4 {
+        color: #ffce43;
+    }
+    
+    .team-member1:hover > div {
+        color: #fff;
+        border: 5px solid #e67e22;
+    }
+    .team-member2:hover > div {
+        color: #fff;
+        border: 5px solid #e67e22;
+    }
+    .team-member3:hover > div {
+        color: #fff;
+        border: 5px solid #e67e22;
+    }
+    .team-member4:hover > div {
+        color: #fff;
+        border: 5px solid #e67e22;
+    }
+    
+    .icon-social {
+        background: #fff;
+        color: #000;
+    }
+    
+    #price {
+        background: #ffce42;
+	    padding: 30px 0px ;
+	    display: block;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+	    z-index: 900;
+    }
+    
+    #price h1 {
+	    color: #fff;
+    }
+    
+    .price-table {
+    	border: 1px solid #dc4b3f;
+    }
+    
+    .price-table-heading h3 {
+	    color: #c1c1c1 !important;
+    }
+    
+    .the-price {
+		background-color: #dc4b3f;
+    }
+    
+    .table-feature {
+    	border: 2px solid #e67e22;
+	}
+	
+	.table-feature:hover {
+       background: #e67e22;
+    }
+    .testemonials p {
+	    color: #c1c1c1;
+    }
+    
+    .testemonials .author {
+	    color: #e67e22;
+    }
+    
+    
+    .nbs-flexisel-item {
+        border-bottom: 1px solid #fff;
+    }
+    
+    .nbs-flexisel-nav-left,
+    .nbs-flexisel-nav-right {
+        background-color: #443e44 !important;
+    }
+    
+    .nbs-flexisel-nav-left:hover,
+    .nbs-flexisel-nav-right:hover {
+        background-color: #447490 !important;
+    }
+    
+    #foot {
+	    background: #447490;
+	    padding: 10px 0px ;
+	    display: block;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+	    z-index: 900;
+	    -webkit-box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.9);
+	    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.9);
+    }
+    
+    .bottom-con h5 {
+	    color: #fff;
+    }
+    
+    .bottom-con p {
+        padding-left: 30%;
+	    text-align: left;
+	    color: #fff;
+    }
+    
+    .footer a:hover {
+	    color: #ccc;
+    }
+    .footer a {
+        color: #fff;
+    }
+
+    .footer p {
+        color: #fff;
+    }
+
+    .up {
+	    background: #fff;
+    }
+    
+    .up span:hover {
+		color: #447490 ;
+	}
+	
+	.up span {
+	    color: #c1c1c1;
+	}
+
+    .head-border-white {
+	    background: #444;
+    }
+    
+    .head-border-grey {
+	    background: #443e44;
+    }	
+ 
+    .head p {
+	    color: #444;
+    }
+    
+    @media only screen and (max-width: 767px) {
+	    
+	.our-process { 
+       background: #27ad60 url(../img/process/our-process-theme2-mobil.svg) no-repeat center top; 
+       min-height: 1200px;
+       margin-bottom: 150px;
+    }
+    
+    .process-con h5 {  
+       background: #27ad60; 
+    }
+    
+    }
