@@ -408,7 +408,7 @@
     }
     
     .team-member2:hover > div {
-        background: url('../img/team/backside/1.jpg') center center no-repeat;
+        background: url('../img/team/backside/2.jpg') center center no-repeat;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -422,7 +422,7 @@
     }
     
     .team-member3:hover > div {
-        background: url('../img/team/backside/1.jpg') center center no-repeat; 
+        background: url('../img/team/backside/3.jpg') center center no-repeat; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -436,7 +436,7 @@
     }
     
     .team-member4:hover > div {
-        background: url('../img/team/backside/1.jpg') center center no-repeat; 
+        background: url('../img/team/backside/4.jpg') center center no-repeat; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
