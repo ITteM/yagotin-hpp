@@ -128,11 +128,11 @@
 }
 
 h2 {
-  color: white;
+  color: black;
   font-family: "Roboto", serif;
-  font-weight: 200;
+  font-weight: 600;
   text-transform: uppercase;
-  border: 1px solid #fff;
+  border: 1px solid black;
 }
 
 h3 {
@@ -167,7 +167,7 @@ h3 {
   left: 70%;
   width: 35%;
   opacity: 0;
-  bottom: 1%;
+  bottom: 13%;
   z-index: 50;
 }
 
