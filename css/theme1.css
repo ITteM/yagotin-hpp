@@ -90,23 +90,6 @@
         color: #ffce43;
     }
     
-    .team-member1:hover > div {
-        color: #fff;
-        border: 5px solid #fffa60;
-    }
-    .team-member2:hover > div {
-        color: #fff;
-        border: 5px solid #fffa60;
-    }
-    .team-member3:hover > div {
-        color: #fff;
-        border: 5px solid #fffa60;
-    }
-    .team-member4:hover > div {
-        color: #fff;
-        border: 5px solid #fffa60;
-    }
-    
     .icon-social {
         background: #fff;
         color: #000;

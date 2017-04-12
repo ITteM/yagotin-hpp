@@ -2333,6 +2333,7 @@ input[type="button"].btn-block {
 }
 .glyphicon-user:before {
   content: "\e008";
+  color: #2fc17a;
 }
 .glyphicon-film:before {
   content: "\e009";
@@ -2345,6 +2346,7 @@ input[type="button"].btn-block {
 }
 .glyphicon-th-list:before {
   content: "\e012";
+  color: #ffce42;
 }
 .glyphicon-ok:before {
   content: "\e013";
@@ -2372,6 +2374,7 @@ input[type="button"].btn-block {
 }
 .glyphicon-home:before {
   content: "\e021";
+  color: #5e2fab;
 }
 .glyphicon-file:before {
   content: "\e022";
@@ -2630,6 +2633,7 @@ input[type="button"].btn-block {
 }
 .glyphicon-comment:before {
   content: "\e111";
+  color: #dc4b3f;
 }
 .glyphicon-magnet:before {
   content: "\e112";
@@ -2843,6 +2847,7 @@ input[type="button"].btn-block {
 }
 .glyphicon-phone-alt:before {
   content: "\e183";
+  color: #ab5e2f;
 }
 .glyphicon-tower:before {
   content: "\e184";
@@ -3893,6 +3898,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .navbar-nav > li > a {
     padding-top: 15px;
     padding-bottom: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
   }
 }
 @media (min-width: 768px) {
