@@ -132,7 +132,7 @@ h2 {
   font-family: "Roboto", serif;
   font-weight: 600;
   text-transform: uppercase;
-  border: 1px solid black;
+  border: 0px solid black;
 }
 
 h3 {
@@ -162,7 +162,7 @@ h3 {
 }
 
 .title {
-  font-size: 37px;
+  font-size: 30px;
   text-align: center;
   left: 70%;
   width: 35%;
