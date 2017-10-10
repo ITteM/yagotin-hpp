@@ -1,4 +1,4 @@
-# yagotin-hpp
+# Yagotin HPP(company)
 TDV "Yagotynsky HPP" accepts grain, leguminous and oilseed crops for storage, provides services on cleaning, drying, shipment of grain.
 The activity of the company is based on price competition, which implies a loyal price policy. 
 The special feature is the provision of services for the acceptance of crops for free.
