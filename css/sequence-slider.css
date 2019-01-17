@@ -162,6 +162,7 @@ h3 {
 }
 
 .title {
+  margin: 0 0 0px 30px;
   font-size: 30px;
   text-align: center;
   left: 70%;

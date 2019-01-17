@@ -362,7 +362,7 @@
     }
     
     .member3 {
-        background: url('../img/team/2.jpg') center center no-repeat; 
+        background: url('../img/team/7.jpg') center center no-repeat; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -409,7 +409,7 @@
     }
     
     .member6 {
-        background: url('../img/team/2.jpg') center center no-repeat; 
+        background: url('../img/team/7.jpg') center center no-repeat; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -425,7 +425,7 @@
     }
     
     .member7 {
-        background: url('../img/team/2.jpg') center center no-repeat; 
+        background: url('../img/team/7.jpg') center center no-repeat; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -1318,4 +1318,8 @@
 
 .green{
     color: #2fc17a
+}
+
+.positiontitle{
+    margin: 0 0 0 0; 
 }
